@@ -1,5 +1,5 @@
 # Pokemon-CSS-Challenge
-I did this project for getting better at visual drawings with Pure-CSS.
+I did this project for getting better at Responsive visual drawings with Pure-CSS.
 
 I didnt want it to use any drawing API's or librarys because I want it to try my CSS Skills.
 
