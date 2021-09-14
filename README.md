@@ -11,7 +11,7 @@ WHAT I USED:
 -Fetch API
 
 .about{
-Why its not looking a normal website: This project is not about UI/UX !important;
+Why its not looking like a normal website: This project is not about UI/UX !important;
 display: My Skills;
 :)
 }
